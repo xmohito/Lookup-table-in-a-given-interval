@@ -1,4 +1,4 @@
-# Lookup-table-in-a-given-interval
+# Tablicowanie funkcji w zadanym przedziale
 Tablicowanie funkcji w zadanym przedziale, z zadaną liczbą
 podprzedziałów, z wykorzystaniem rozwinięcia w szereg.
 Dane wejściowe do programu: przedział, w którym funkcja ma
